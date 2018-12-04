@@ -7,3 +7,6 @@
 words = ["aye", "bee", "sea", "bee"]
 words.remove("bee")
 print(words.pop())
+
+# this is a test
+print("hello world")
