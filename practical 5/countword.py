@@ -17,4 +17,6 @@ for word in words:
         counts[word] = 1
 
 for count in counts:
-    print(counts.)
+    print(counts)
+
+    print("not finished")
