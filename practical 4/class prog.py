@@ -28,13 +28,13 @@
 # print(myList[1])
 # print(myList[:3])
 
-# things=['a',[1,2,3], 'z']
+things=['a',[1,2,3], 'z']
 #
 # for thing in things:
 #     print(things, end='')
 # things.append('z')
-# things.insert(1,'python')
-# print(things)
+things.insert(1,'python')
+print(things)
 # things.remove('a')
 # print(things)
 #
@@ -59,10 +59,10 @@
 # text = ' '.join(words)  # put commas between words
 # print(text)
 
-scores = []
-score = int(input("Score: "))
-while score>=0:
-    scores.append(score)
-    score = int(input("Score: "))
-print("Your highest score is", max(scores))
-print(scores)
+# scores = []
+# score = int(input("Score: "))
+# while score>=0:
+#     scores.append(score)
+#     score = int(input("Score: "))
+# print("Your highest score is", max(scores))
+# print(scores)
