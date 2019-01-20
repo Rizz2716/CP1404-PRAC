@@ -1,3 +1,4 @@
+
 sales = float(input("Enter sales: $"))
 
 while sales >=0 :
