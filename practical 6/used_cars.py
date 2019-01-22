@@ -10,7 +10,6 @@ def main():
     print("Car {}, {}".format(my_car.fuel, my_car.odometer))
     print("Car {self.fuel}, {self.odometer}".format(self=my_car))
 
-
 main()
 #
 # from prac_06.car import Car
